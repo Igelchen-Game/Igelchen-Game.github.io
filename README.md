@@ -1,7 +1,7 @@
 # Igelchen-Game.github.io
 [Igelchen-Game.github.io/](https://igelchen-game.github.io/)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igelchen-game&label=Profile%20views&color=0e75b6&style=flat" alt="igelchen-game" /> </p>
 
