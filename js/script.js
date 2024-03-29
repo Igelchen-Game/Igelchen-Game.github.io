@@ -133,5 +133,10 @@ for (var i = 0; i < cards.length; i++) {
         alert(`Congratulations!!! You won the game in ${move} moves.`);
       }, 300);
     }
+    function confirmLeave() {
+      if (confirm("Are you sure you want to leave the game?")) {
+        // Redirect to another page or perform other actions
+      }
+    }
   });
 }
